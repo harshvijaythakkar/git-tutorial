@@ -1,0 +1,3 @@
+git init -> to initialized empty git repo.
+git status -> to check status of the directory.
+
