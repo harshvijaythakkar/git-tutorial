@@ -31,3 +31,4 @@ git diff --staged -> to check diff of while which are there in staging area.
 git diff HEAD~n -> to see latest - n commit.
 git diff HEAD~n "file_name"-> to see only specific file changes in latest - n commit.
 git reset HEAD "File_name" -> to unstage file from staging area.
+git pull origin master --allow-unrelated-histories -> when you get this error message "fatal: refusing to merge unrelated histories"
